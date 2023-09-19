@@ -72,11 +72,18 @@ $ npx prisma migrate dev
 ```
 $ npm run dev
 ```
-<p>⚠️ Atenção: </p>
+<br/>
+
+<p>⚠️ ATENÇÃO: </p>
 
 - Crie um arquivo .env de acordo com o arquivo .env.example. 
 - No campo DATABASE_URL, especifique a URL do banco de dados que deseja utilizar. 
 - Crie uma conta no site OpenAI, obtenha sua chave da API e preencha o campo OPENAI_KEY com sua chave.
+
+<br/>
+
+## 🚀 Acesso ao Front-end : 
+<a>https://github.com/Gisellebm/nlw-upload-ai</a>
 
 <br/>
 
