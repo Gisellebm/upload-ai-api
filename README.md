@@ -15,7 +15,11 @@ Aplicação que possibilita realizar upload de videos e por meio de IA, criar au
 
 <br/>
 
-  ![preview](./public/projeto2.png)
+
+https://github.com/Gisellebm/upload-ai-api/assets/55713609/29af3006-eb03-4550-9908-4efaff75f378
+
+
+  
 
 
 <p align="center">
